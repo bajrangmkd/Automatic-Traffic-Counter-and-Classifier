@@ -1,0 +1,7 @@
+train: D:\workspace\ATCC\ATCCdataset\train\images
+val: D:\workspace\ATCC\ATCCdataset\valid\images
+test: D:\workspace\ATCC\ATCCdataset\test\images
+
+nc: 5
+names: ['bike', 'bus', 'car', 'lcv', 'truck']
+
