@@ -41,7 +41,7 @@ cap.release()
 cv2.destroyAllWindows()
 
 
-# This code for test from images
+# This code for test from images add
 
 
 # from ultralytics import YOLO
